@@ -9,4 +9,4 @@ VITE_REACT_APP_MOD_CODE='1002'
 VITE_REACT_APP_ADMIN_CODE='1003'
 ```
 
-and `npm start`
+and `npm run dev --open`
